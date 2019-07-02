@@ -1,0 +1,13 @@
++         Addition operator
+-         Minus operator
+*         Multiplication operator
+/         Division operator
+%         Modulo operator
+DIV       Integer division
+-         Unary minus
+
+
+Order Evaluated    Operators
+1                  - (unary minus)
+2                  * / % DIV
+3                  + -
